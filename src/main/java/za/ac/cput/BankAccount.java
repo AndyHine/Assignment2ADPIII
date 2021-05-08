@@ -1,5 +1,9 @@
 package za.ac.cput;
 
+/**
+ * @author Andy William Hine - 219259038
+ */
+
 import java.util.Objects;
 
 public class BankAccount
